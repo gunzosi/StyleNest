@@ -18,4 +18,4 @@ With backgrounds in design and commerce, they bring a fresh perspective to the o
 ---
 
 🛒 **Explore now and discover your style at StyleNest.**  
-[www.stylenest.com](http://www.stylenest.com) _(example link)_
+[www.stylenest.com](https://github.com/gunzosi/StyleNest)
